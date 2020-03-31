@@ -1,0 +1,38 @@
+body{
+background-color: black;
+
+}
+
+div.headT{
+   vertical-align: sub;
+   text-align: center;
+   color: green;
+   border-color: green;
+   border-style: dotted;
+   width: 416px;
+   height: 30px;
+}
+div.bodyT{
+   color: green;
+   border-color: green;
+   border-style: dotted;
+   width: 416px;
+}
+div{
+   vertical-align: sub;
+}
+button{
+   background-color: black; 
+   vertical-align: middle;
+   color: green;
+   border-style: none;
+   width: 80px;
+   height: 80px;
+   font-family: Verdana, sans-serif;
+   font-weight: bold;
+}
+button:hover {
+   border-color: green;
+   border-style: dotted;
+ }
+
